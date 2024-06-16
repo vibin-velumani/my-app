@@ -1,0 +1,14 @@
+.head
+{
+    background-color: blueviolet;
+    padding: 2cm;
+    /* text-decoration: solid; */
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.head-att
+{
+    text-align: left;
+}
